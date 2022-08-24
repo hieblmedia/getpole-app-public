@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Questions & Discussions
+  - name: Discord for Questions & Discussions
     url: https://discord.getpole.com/
     about: Use our GetPole Racing/RaceHub Discord for questions and discussions.
+  - name: Documentation & FAQ
+    url: https://www.getpole.com/racehub
+    about: Please also refer to the documentation & FAQ, before submit an issue.
