@@ -1,2 +1,2 @@
-# GetPole RaceHub
-https://www.getpole.com/racehub/
+# GetPole App/Overlay
+https://www.getpole.com/app/
